@@ -12,13 +12,14 @@ var a = 233;
 1. first
 2. second
 3. third
-4. forth
+4. fourth
 5. fifth
 
 ---
 - firth
 - second
 - third
+- fourth
 
 [this is an anchorl](https://www.baidu.com/)
 
